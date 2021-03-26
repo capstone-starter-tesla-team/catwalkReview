@@ -1,0 +1,15 @@
+img {
+  width: 30px;
+  margin-left: 20px;
+  color: red;
+}
+/* whole component */
+.star {
+  margin-top: 5px;
+  margin-left: 80px;
+}
+
+h4 {
+  margin-bottom: 5px;
+  margin-left: 18px;
+}
