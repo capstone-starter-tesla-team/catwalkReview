@@ -1,0 +1,9 @@
+.relevance {
+  text-decoration: underline;
+}
+
+/* number of reviews */
+.review {
+  font-size: 30px;
+  font-weight: bold;
+}

@@ -1,0 +1,92 @@
+/* component one review */
+.oneReview {
+  background-color: rgba(56, 95, 56, 0.445);
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+/* for user summary */
+.summary {
+  border: 1px solid #ddd;
+  width: 600px;
+  height: 100px;
+  margin-top: 10px;
+  margin-left: 100px;
+  display: block;
+}
+
+/* for user review */
+.reviewText {
+  border: 1px solid #ddd;
+  width: 600px;
+  height: 200px;
+  margin-top: 10px;
+  margin-left: 100px;
+  display: block;
+}
+
+/* for user images input link */
+.userImageInput {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  margin-top: 5px;
+  margin-left: 100px;
+  width: 600px;
+  display: block;
+}
+
+/* for text next to the link of image input */
+h5 {
+  margin-top: 5px;
+  margin-left: 100px;
+  margin-bottom: 5px;
+  color: black;
+}
+
+p {
+  margin-top: 5px;
+  margin-left: 100px;
+  margin-bottom: 5px;
+  color: black;
+}
+
+/* text do you recommend this prod */
+.recom {
+  margin-left: 95px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+/* for the checkbox do you recommend this */
+.checbox {
+  margin-left: 100px;
+  transform: scale(2);
+}
+
+/* for the 1st radio */
+.radio {
+  margin-left: 70px;
+  margin-top: 0px;
+}
+
+h3 {
+  margin-bottom: 1px;
+}
+
+/* name styles */
+.name {
+  margin-left: 101px;
+}
+
+/* button */
+button {
+  margin-top: 10px;
+  margin-left: 75px;
+  width: 160px;
+  height: 60px;
+  font-size: 20px;
+}
+button:hover {
+  background-color: white;
+}
