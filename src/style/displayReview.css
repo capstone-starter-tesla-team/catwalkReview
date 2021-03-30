@@ -1,0 +1,41 @@
+/* whole component */
+.container {
+  width: 65vh;
+  height: 80vw;
+  margin-left: 20px;
+}
+
+/* 1st line number of reviews */
+.numRev {
+  font-weight: bold;
+}
+
+/* all anchor tag */
+a {
+  color: black;
+}
+
+/* one review */
+.review {
+}
+
+/* ratinf stars */
+.stars {
+}
+
+.line {
+  border-style: inset;
+  border-width: 1px;
+  width: 350px;
+}
+
+/* for do i recommend the product */
+.rcm {
+  margin-top: 10px;
+}
+
+/* for the buttons on bottom */
+.btn-container {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
